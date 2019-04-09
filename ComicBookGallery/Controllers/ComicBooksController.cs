@@ -27,5 +27,8 @@ namespace ComicBookGallery.Controllers
             return View(); 
 
         }
-    }
-}
+
+
+
+    } //END Class
+} //END Namespace
